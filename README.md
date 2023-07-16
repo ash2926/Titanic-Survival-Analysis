@@ -4,10 +4,9 @@ This repository contains an ML model for predicting the survival of passengers a
 
 ## Dataset
 
-The dataset used for this analysis is the famous Titanic dataset, which can be found in the `data` directory. It consists of two CSV files:
+The dataset used for this analysis is the famous Titanic dataset, which can be found in the `data` directory. It consists of CSV file:
 
 - `train.csv`: This file contains the training set, which includes the target variable (survival) along with various attributes for each passenger.
-- `test.csv`: This file contains the test set, which lacks the target variable and is used for final evaluation.
 
 ## Installation
 
